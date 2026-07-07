@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Work History | Joseph Villarin</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .wh-page { padding: 48px 0 80px; }
+    .wh-page-heading {
+      margin-bottom: 40px;
+    }
+    .wh-page-heading h1 {
+      font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+      margin: 0 0 8px;
+    }
+    .wh-page-heading p {
+      color: var(--muted);
+      font-size: 1.03rem;
+      margin: 0;
+    }
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      position: relative;
+    }
+    .timeline::before {
+      content: "";
+      position: absolute;
+      left: 18px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--accent), var(--accent-2));
+      opacity: .35;
+    }
+    .timeline-item {
+      display: grid;
+      grid-template-columns: 40px 1fr;
+      gap: 0 20px;
+      position: relative;
+    }
+    .timeline-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      border: 2px solid #0e1e33;
+      box-shadow: 0 0 0 4px rgba(124,201,255,.18);
+      margin-top: 6px;
+      justify-self: center;
+      position: relative;
+      z-index: 1;
+      flex-shrink: 0;
+    }
+    .job-card {
+      background: rgba(255,255,255,.08);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 22px 24px;
+      backdrop-filter: blur(10px);
+      transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+    }
+    .job-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 16px 32px rgba(0,0,0,.2);
+      border-color: rgba(124, 201, 255, 0.4);
+    }
+    .job-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .job-title-block { flex: 1; min-width: 200px; }
+    .job-title-block h2 {
+      font-size: 1.15rem;
+      margin: 0 0 4px;
+    }
+    .job-company {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      color: var(--accent);
+      font-weight: 600;
+      font-size: .95rem;
+    }
+    .job-type {
+      background: rgba(124,201,255,.12);
+      border: 1px solid rgba(124,201,255,.25);
+      color: var(--accent);
+      font-size: .78rem;
+      font-weight: 600;
+      padding: 2px 9px;
+      border-radius: 999px;
+      letter-spacing: .05em;
+    }
+    .job-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: .85rem;
+      color: var(--muted);
+      margin-bottom: 14px;
+    }
+    .job-meta span {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .job-meta span::before {
+      content: "·";
+      opacity: .4;
+    }
+    .job-meta span:first-child::before { content: ""; }
+    .job-bullets {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--muted);
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+      font-size: .95rem;
+      line-height: 1.65;
+    }
+
+    @media (max-width: 600px) {
+      .timeline::before { left: 10px; }
+      .timeline-item { grid-template-columns: 24px 1fr; gap: 0 12px; }
+      .job-card { padding: 16px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <div class="container nav-bar">
+        <a class="brand" href="index.html">Joseph Villarin</a>
+        <nav class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="index.html#projects">Projects</a>
+          <a href="index.html#analytics">Analytics</a>
+          <a href="index.html#certifications">Certificates</a>
+          <a href="index.html#sample-projects">Sample Projects</a>
+          <a href="work-history.html" aria-current="page" style="color:var(--accent)">Work History</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container wh-page">
+      <div class="wh-page-heading">
+        <p class="eyebrow">Career Timeline</p>
+        <h1>Work History</h1>
+        <p>A record of professional roles, responsibilities, and contributions across IT support and analytics.</p>
+      </div>
+
+      <div class="timeline">
+
+        <!-- Application Support – Wild Fork -->
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <article class="job-card">
+            <div class="job-header">
+              <div class="job-title-block">
+                <h2>Application Support</h2>
+                <div class="job-company">
+                  Wild Fork
+                  <span class="job-type">Full-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="job-meta">
+              <span>Feb 2025 – May 2026 · 1 yr 4 mos</span>
+              <span>United States · Remote</span>
+            </div>
+            <ul class="job-bullets">
+              <li>Provided technical support and troubleshooting for order processing errors, ensuring timely issue resolution and minimal business impact.</li>
+              <li>Accessed and managed Product Rails servers to deploy code fixes and resolve order-related application issues.</li>
+              <li>Created, tracked, and managed incident and development tickets in Jira, ensuring accurate documentation and timely follow-up.</li>
+              <li>Maintained and organized Confluence knowledge base documentation to improve knowledge sharing and operational efficiency.</li>
+              <li>Collaborated cross-functionally with stakeholders, developers, and teams across multiple departments to identify requirements, resolve technical issues, and deliver effective solutions.</li>
+              <li>Coordinated with engineering and business teams to investigate production issues, communicate updates, and support continuous process improvements.</li>
+            </ul>
+          </article>
+        </div>
+
+        <!-- Power BI Analyst – Expert Digital Services -->
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <article class="job-card">
+            <div class="job-header">
+              <div class="job-title-block">
+                <h2>Power BI Analyst</h2>
+                <div class="job-company">
+                  Expert Digital Services
+                  <span class="job-type">Contract</span>
+                </div>
+              </div>
+            </div>
+            <div class="job-meta">
+              <span>Sep 2024 – Jan 2025 · 5 mos</span>
+              <span>Remote</span>
+            </div>
+            <ul class="job-bullets">
+              <li>Designed and developed interactive Power BI dashboards and reports tailored to client needs, delivering actionable business insights.</li>
+              <li>Executed full ETL processes, including data extraction, transformation, and loading from diverse sources into Power BI and Excel.</li>
+              <li>Built efficient data models using best practices (star/snowflake schema) to support scalable and performant reporting.</li>
+              <li>Wrote and optimized DAX measures and calculated columns for advanced business logic and KPIs.</li>
+              <li>Utilized SQL to query, clean, and prepare data from relational databases, improving data reliability and accuracy.</li>
+              <li>Applied Power Query for complex data transformation workflows within both Power BI and Excel.</li>
+              <li>Collaborated with clients to streamline inventory and purchasing processes through data-driven analysis and reporting.</li>
+              <li>Integrated Microsoft 365 tools (Excel, SharePoint, Outlook) to support automated and collaborative reporting solutions.</li>
+            </ul>
+          </article>
+        </div>
+
+        <!-- IT Service Desk – Optum -->
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <article class="job-card">
+            <div class="job-header">
+              <div class="job-title-block">
+                <h2>IT Service Desk</h2>
+                <div class="job-company">
+                  Optum
+                  <span class="job-type">Full-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="job-meta">
+              <span>Jun 2021 – Sep 2024 · 3 yrs 4 mos</span>
+              <span>United States</span>
+            </div>
+            <ul class="job-bullets">
+              <li>Logged incidents and update requests using the ServiceNow ticketing system.</li>
+              <li>Answered and resolved technical issues via phone, chat, and web portal in a high-volume 24×7×365 call center environment, efficiently and professionally.</li>
+              <li>Diagnosed hardware, software, printing, and network connectivity issues including LAN, WAN, and VPN access in a Windows 10 environment, offering Level 1–2 solutions over the phone, chat, or email.</li>
+              <li>Assisted end users with endpoint devices, Contact Center solutions, and collaboration applications such as WebEx and Jabber.</li>
+              <li>Troubleshot corporate applications (MS Office Suite, Tableau, Rightfax, enterprise browsers, Java plug-ins) using a Knowledge Base and routed issues to appropriate support groups.</li>
+              <li>Proficiently managed resolution of inbound technical contacts, balancing customer service with call handle time goals.</li>
+              <li>Translated complex technical concepts into easy-to-understand language for non-technical customers.</li>
+              <li>Accurately and efficiently recorded all customer interactions in the incident management tracking tool.</li>
+              <li>Adhered to policies regarding safeguarding of protected information (PHI/PII) and corporate system access.</li>
+              <li>Escalated high-priority, high-impact issues to internal support teams as needed.</li>
+              <li>Met or exceeded statistical metrics: ticket and contact quality, first call resolution, schedule adherence, and call handle time.</li>
+            </ul>
+          </article>
+        </div>
+
+        <!-- IT Support Engineer – Keystone Solutions -->
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <article class="job-card">
+            <div class="job-header">
+              <div class="job-title-block">
+                <h2>Information Technology Support Engineer</h2>
+                <div class="job-company">
+                  Keystone Solutions
+                  <span class="job-type">Freelance</span>
+                </div>
+              </div>
+            </div>
+            <div class="job-meta">
+              <span>Jan 2021 – Apr 2021 · 4 mos</span>
+              <span>United States</span>
+            </div>
+            <ul class="job-bullets">
+              <li>Performed password resets, printer configurations, break/fix instructions, ticket routing, and escalation to Level 2 and Level 3 support.</li>
+              <li>Escalated issues to IT applications support or coordinated with outside vendor maintenance as required.</li>
+              <li>Gathered and analyzed information about user issues to determine the best resolution path.</li>
+              <li>Provided support for identified Level 2 and Level 3 issues where configuration solutions had already been documented.</li>
+              <li>Handled IT incident troubleshooting including Windows, Linux, VoIP, Network Administration, process documentation, and procedure development.</li>
+            </ul>
+          </article>
+        </div>
+
+        <!-- IT Support Specialist – one.com -->
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <article class="job-card">
+            <div class="job-header">
+              <div class="job-title-block">
+                <h2>Information Technology Support Specialist</h2>
+                <div class="job-company">
+                  one.com
+                  <span class="job-type">Full-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="job-meta">
+              <span>Nov 2019 – May 2020 · 7 mos</span>
+              <span>Cebu, Central Visayas, Philippines</span>
+            </div>
+            <ul class="job-bullets">
+              <li>Provided real-time customer support through live chat.</li>
+              <li>Responded to customer emails, resolving technical inquiries promptly.</li>
+              <li>Supported customers across multiple CMS platforms including WordPress, Drupal, and Joomla.</li>
+              <li>Coordinated with the technical team for escalated technical issues and requests.</li>
+              <li>Diagnosed and resolved website issues, correcting errors to restore functionality.</li>
+            </ul>
+          </article>
+        </div>
+
+      </div>
+    </main>
+  </div>
+</body>
+</html>

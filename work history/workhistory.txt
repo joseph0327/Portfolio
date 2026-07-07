@@ -1,0 +1,69 @@
+
+
+
+Application Support
+Wild Fork · Full-time
+Feb 2025 - May 2026 · 1 yr 4 mos
+United States · Remote
+* Provided technical support and troubleshooting for order processing errors, ensuring timely issue resolution and minimal business impact.
+* Accessed and managed Product Rails servers to deploy code fixes and resolve order-related application issues.
+* Created, tracked, and managed incident and development tickets in Jira, ensuring accurate documentation and timely follow-up.
+* Maintained, and organized Confluence knowledge base documentation to improve knowledge sharing and operational efficiency.
+* Collaborated cross-functionally with stakeholders, developers, and teams across multiple departments to identify requirements, resolve technical issues, and deliver effective solutions.
+* Coordinated with engineering and business teams to investigate production issues, communicate updates, and support continuous process improvements.
+
+
+Power BI Analyst
+Expert Digital Services · Contract
+Sep 2024 - Jan 2025 · 5 mos
+Remote
+
+- Designed and developed interactive Power BI dashboards and reports tailored to client needs, delivering actionable business insights.
+- Executed full ETL processes, including data extraction, transformation, and loading from diverse sources into Power BI and Excel.
+- Built efficient data models using best practices (star/snowflake schema) to support scalable and performant reporting.
+- Wrote and optimized DAX measures and calculated columns for advanced business logic and KPIs.
+- Utilized SQL to query, clean, and prepare data from relational databases, improving data reliability and accuracy.
+- Applied Power Query for complex data transformation workflows within both Power BI and Excel.
+- Collaborated with clients to streamline inventory and purchasing processes through data-driven analysis and reporting.
+- Integrated Microsoft 365 tools (Excel, SharePoint, Outlook) to support automated and collaborative reporting solutions.
+
+IT Service Desk
+Optum · Full-time
+Jun 2021 - Sep 2024 · 3 yrs 4 mos
+United States
+- Logged incident and update request using Service Now ticketing system
+-Answer and resolve technical issues through mostly calls and via chat and web portal at a large corporate Service Desk, efficiently and professionally, in a high volume call center environment that operates 24x7x365.
+- Diagnose hardware, software, printing, and network connectivity issues including LAN, WAN, and VPN access in a Windows 10 environment, offering a variety of level 1 to 2 solutions over the phone, via chat or email. Using remote control tools to assist customers when needed.
+- Assist end users with their endpoint devices, Contact Center solutions applications, Collaboration application such as WebEx and Jabber.
+- Troubleshoot corporate applications (MS Office Suite, Tableau, Rightfax, Enterprise supported browsers, Java Plug-ins etc.) with the use of a Knowledge Base and assign issues to the appropriate support group as needed.
+- Proficiently manage the resolution of inbound technical contacts; balancing customer service, providing support, and issue resolution with the constraints of a call handle time goal.
+- Effectively translate complex, technical concepts into easy to understand language to assist non-technically oriented customers.
+- Demonstrate a highly developed sense of integrity and commitment to customer satisfaction.
+- Accurately, quickly, and efficiently typing record all interactions with customers in an incident management tracking tool.
+- Adhere to policies and procedures regarding the safeguarding of protected information, such as personal health information (PHI/PII) and access to corporate systems.
+- Escalate high priority, high impact issues to the internal support teams.
+- Adhere to a strongly regimented schedule (start/end times, lunches, breaks, non-production time, etc.).
+-Meet or exceed statistical metrics regarding; ticket and contact quality, first call resolution, schedule adherence, and call handle time.
+
+
+Information Technology Support Engineer
+Keystone Solutions  · Freelance
+Jan 2021 - Apr 2021 · 4 mos
+United States
+Engagement Details and Role:
+- password resets, printer configurations, break/fix instructions, ticket routing, and escalation to Level 2 and Level 3 support.
+- escalate to IT applications support or call for outside vendor maintenance
+- gathers and analyzes information about the user’s issue and determines the best way to resolve their problem. 
+- provide support for identified Level 2 and Level 3 issues where configuration solutions have already been documented.
+- Includes IT incident Troubleshooting, Window, Linux, VoIP, Network Administration, Process documentation and procedure development.
+
+
+Information Technology Support Specialist
+one.com · Full-time
+Nov 2019 - May 2020 · 7 mos
+Cebu, Central Visayas, Philippines
+- Provide real-time support through chat
+- Respond to emails
+- Provide support on different CMS (e.g. WordPress, Drupal, Joomla and etc.)
+- Coordinate with the technical team for technical issues and requests.
+-  Provide resolution to any website issue and fix errors on the website.
