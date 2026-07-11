@@ -8,7 +8,7 @@ Turning **raw data into actionable insights** through data engineering pipelines
 
 
 
-I am a Data Engineer and Analytics Professional with experience building **ETL/ELT pipelines**, designing **Power BI dashboards**, developing **data models**, and supporting enterprise applications. I bridge the gap between technical data solutions and business decisions by transforming complex datasets into meaningful insights.
+I am an Aspiring Data Engineer and Analytics Professional with experience building **ETL/ELT pipelines**, designing **Power BI dashboards**, developing **data models**, and supporting enterprise applications. I bridge the gap between technical data solutions and business decisions by transforming complex datasets into meaningful insights.
 
 🚀 **Open to opportunities in Data Engineering, Analytics Engineering, BI Development, and Automation.**
 
