@@ -1,87 +1,123 @@
-
-
 # 👋 Hi, I'm Joseph Villarin
 
-## Data Engineer | Analytics Professional | Automation Enthusiast
+## IT Professional | MSP & Microsoft Technologies | Data Engineering & Analytics
 
-Turning **raw data into actionable insights** through data engineering pipelines, analytics dashboards, automation, and cloud technologies.
+IT Professional with **7 years of experience in IT and Application Support**, with a strong focus on **Managed Service Provider (MSP) environments, Microsoft technologies, enterprise applications, and technical operations**.
 
+I have hands-on experience supporting **Windows Server, Active Directory, Microsoft 365, Entra ID, and Intune**, while also developing skills in **Data Engineering, Business Intelligence, automation, and cloud technologies**.
 
+I enjoy solving technical problems, improving IT operations, and building data-driven solutions that connect technology with business needs.
 
-I am an Aspiring Data Engineer and Analytics Professional with experience building **ETL/ELT pipelines**, designing **Power BI dashboards**, developing **data models**, and supporting enterprise applications. I bridge the gap between technical data solutions and business decisions by transforming complex datasets into meaningful insights.
-
-🚀 **Open to opportunities in Data Engineering, Analytics Engineering, BI Development, and Automation.**
+🚀 **Open to opportunities in IT Support, MSP, Systems Administration, Data Engineering, BI Development, and Automation.**
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-- 🔭 Currently focused on **Data Engineering, Analytics, and Cloud Technologies**
-- 🏗️ Building ETL/ELT pipelines using **Snowflake, dbt, SQL, and Python**
-- 📊 Creating business intelligence solutions using **Power BI and DAX**
-- ☁️ Exploring cloud data platforms including **AWS, Azure, and Microsoft Fabric**
-- ⚙️ Automating workflows using **Power Automate, Python, and RPA**
-- 🛠️ Experienced in enterprise **IT Application Support and Technical Operations**
+* 🛠️ 7 years of experience in **IT and Application Support**
+* ☁️ Experienced with **Microsoft cloud and endpoint technologies**
+* 🖥️ Supporting **Windows Server, Active Directory, Microsoft 365, Entra ID, and Intune**
+* 🔧 Experienced in **enterprise application support, troubleshooting, incident management, and technical operations**
+* 📊 Building **Power BI dashboards, data models, and analytics solutions**
+* 🏗️ Developing skills in **ETL/ELT pipelines, SQL, Python, Snowflake, and dbt**
+* ⚙️ Automating workflows using **Power Automate, Python, and RPA**
+* ☁️ Expanding knowledge in **Azure, AWS, Microsoft Fabric, and modern cloud data platforms**
 
 ---
 
 # 🛠️ Technical Skills
 
+## IT Infrastructure & MSP
+
+* Windows Server
+* Active Directory
+* Microsoft 365 Administration
+* Microsoft Entra ID
+* Microsoft Intune
+* Windows 10 / 11
+* DNS / DHCP
+* Group Policy
+* Endpoint Management
+* Remote Monitoring & Management (RMM)
+* Enterprise Application Support
+* Incident & Problem Management
+* IT Troubleshooting
+* Service Desk / Help Desk
+* Remote Technical Support
+
 ## Data Engineering
-- Snowflake
-- dbt
-- SQL
-- ETL / ELT Pipelines
-- Data Warehousing
-- Apache Airflow
-- SSIS
-- Data Modelling
-- Data Transformation
+
+* SQL
+* Python
+* Snowflake
+* dbt
+* ETL / ELT Pipelines
+* Data Warehousing
+* Apache Airflow
+* SSIS
+* Data Modelling
+* Data Transformation
+* Data Integration
 
 ## Analytics & Business Intelligence
-- Power BI
-- DAX
-- Power Query
-- Excel Analytics
-- Google Looker
-- Dashboard Development
-- KPI Reporting
-- Data Visualization
 
-## Programming
-- Python
-- SQL
-- Java
-- JavaScript
-- HTML/CSS
+* Power BI
+* DAX
+* Power Query
+* Excel Analytics
+* Looker Studio
+* Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Business Intelligence
 
-## Cloud & Platforms
-- AWS
-- Microsoft Azure
-- Microsoft Fabric
-- Databricks
-- SharePoint
-- Docker
+## Programming & Development
+
+* Python
+* SQL
+* Java
+* JavaScript
+* HTML / CSS
+* REST APIs
+* Django
+* Flask
+* FastAPI
+
+## Cloud & Data Platforms
+
+* Microsoft Azure
+* AWS
+* Microsoft Fabric
+* Snowflake
+* Databricks
+* Docker
+* SharePoint
 
 ## Automation & Enterprise Tools
-- Power Automate
-- RPA
-- Jira
-- ServiceNow
-- Confluence
-- Agile Delivery
+
+* Power Automate
+* RPA
+* Python Automation
+* Jira
+* ServiceNow
+* Confluence
+* Git / GitHub
+* Postman
+* Agile Delivery
 
 ---
 
 # 📊 Portfolio Highlights
 
-| Category | Experience |
-|---|---|
-| 📈 Analytics Projects | 10+ Power BI dashboards and reporting solutions |
-| ⚙️ Data Engineering | ETL pipelines, warehouses, and transformation workflows |
-| ☁️ Cloud Technologies | AWS, Azure, Snowflake, Microsoft Fabric |
-| 🤖 Automation | Workflow automation and repetitive task reduction |
-| 💻 Development | Python applications, APIs, and web projects |
+| Category                  | Experience                                                  |
+| ------------------------- | ----------------------------------------------------------- |
+| 🖥️ IT & MSP              | 7 years of IT and Application Support experience            |
+| ☁️ Microsoft Technologies | Windows Server, Active Directory, M365, Entra ID, Intune    |
+| 📈 Business Intelligence  | Power BI dashboards, DAX, Power Query, and data modelling   |
+| ⚙️ Data Engineering       | ETL/ELT pipelines, SQL, Snowflake, dbt, and data warehouses |
+| ☁️ Cloud Technologies     | Azure, AWS, Microsoft Fabric, Snowflake                     |
+| 🤖 Automation             | Power Automate, Python automation, and RPA                  |
+| 💻 Development            | Python applications, APIs, and web projects                 |
 
 ---
 
@@ -135,15 +171,15 @@ https://github.com/joseph0327/Snowflake-Data-Engineering-Sample-Project
 
 Created interactive dashboards covering:
 
-- Sales Performance
-- Customer Loyalty
-- Automotive Analytics
-- Food Delivery Analytics
-- CO2 Emissions Reporting
-- Earthquake Data Visualization
-- Inventory and Operational Reporting
+* Sales Performance
+* Customer Loyalty
+* Automotive Analytics
+* Food Delivery Analytics
+* CO₂ Emissions Reporting
+* Earthquake Data Visualization
+* Inventory and Operational Reporting
 
-Technologies:
+**Technologies:**
 
 `Power BI` `DAX` `Power Query` `Excel` `SQL`
 
@@ -151,57 +187,77 @@ Technologies:
 
 # 📜 Certifications & Learning
 
-Completed certifications and training in:
+## IT & Microsoft
 
-### Data Engineering
-- Snowflake Data Engineering
-- Snowflake Data Warehousing
-- dbt Fundamentals
-- SQL Development
+* Microsoft Azure Fundamentals (AZ-900)
+* Microsoft 365 Administration
+* Microsoft Entra ID
+* Microsoft Intune
+* Windows Server Administration
+* Active Directory
 
-### Analytics
-- Power BI Data Analysis
-- Microsoft Fabric
-- Data Visualization
-- Excel Analytics
+## Data Engineering
 
-### Programming
-- Advanced Python
-- Python for Data Science & AI
-- Data Structures & Algorithms
+* Snowflake Data Engineering
+* Snowflake Data Warehousing
+* dbt Fundamentals
+* SQL Development
+* ETL / ELT Development
 
-### Cloud
-- Microsoft Azure Fundamentals (AZ-900)
+## Analytics
 
-### Automation
-- Power Automate Desktop
-- Business Process Automation
+* Power BI Data Analysis
+* Microsoft Fabric
+* Data Visualization
+* Excel Analytics
+* DAX
 
----
+## Programming
+
+* Advanced Python
+* Python for Data Science & AI
+* Data Structures & Algorithms
+
+## Automation
+
+* Power Automate Desktop
+* Business Process Automation
+* RPA
 
 ---
 
 # 📈 Current Learning Goals
 
-Currently expanding knowledge in:
+I am continuously expanding my technical knowledge in:
 
-- Advanced Data Engineering Architecture
-- Cloud Data Platforms
-- Data Lakehouse Design
-- Modern Analytics Engineering
-- Workflow Orchestration
-- AI-assisted Data Solutions
+* Advanced IT Infrastructure & MSP Technologies
+* Microsoft Cloud & Endpoint Management
+* Azure Administration
+* Advanced Data Engineering Architecture
+* Cloud Data Platforms
+* Data Lakehouse Design
+* Modern Analytics Engineering
+* Workflow Orchestration
+* AI-assisted Data Solutions
 
 ---
 
+# 🎯 Areas of Interest
+
 I am interested in opportunities involving:
 
-✅ Data Engineering  
-✅ Analytics Engineering  
-✅ Business Intelligence Development  
-✅ Cloud Data Platforms  
-✅ Automation Engineering  
+✅ IT Support & MSP
+✅ Systems Administration
+✅ Microsoft 365 / Entra ID / Intune
+✅ Windows Server & Active Directory
+✅ Data Engineering
+✅ Analytics Engineering
+✅ Business Intelligence Development
+✅ Cloud Data Platforms
+✅ Automation Engineering
 
-Feel free to explore my repositories and connect with me.
+---
 
+# 📫 Connect With Me
 
+I’m always interested in learning, solving technical challenges, and building practical solutions across **IT, cloud, data, and automation**.
